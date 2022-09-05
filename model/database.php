@@ -2,7 +2,7 @@
 class Conexion{
     public static function Conectar(){
         if (!defined('servidor')) define('servidor','localhost');
-        if (!defined('nombre_bd')) define('nombre_bd','multive2_acdo');
+        if (!defined('nombre_bd')) define('nombre_bd','multive2_acdp');
         if (!defined('user')) define('user','multive2_root');
         if (!defined('password')) define('password','X]iY7en4S1+m9Z');
      
