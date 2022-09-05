@@ -69,14 +69,47 @@ session_start() ?>
                                             </li>
                                             <li> <a href="https://www.youtube.com/channel/UCnQONrNqMllwQdF681fUMYA" target="_blank" rel="noopener noreferrer"><i class="fab fa-youtube colorSpam"></i> </a>
                                             </li>
+                                            <li class="colorSpam"> <a href="https://www.facebook.com/IglepueblodeDios/" target="_blank" rel="noopener noreferrer"><i class="fab fa-facebook-f colorSpam"></i> </a>
+                                            </li>
 
                                         </ul>
                                     </div>
                                     <div class="header__top-search">
-                                        <ul>
-                                            <li class="colorSpam"> <a href="https://www.facebook.com/IglepueblodeDios/" target="_blank" rel="noopener noreferrer"><i class="fab fa-facebook-f colorSpam"></i> </a>
-                                            </li>
-                                        </ul>
+                                        <div class="header__menu navbar-expand-xl">
+                                            <div class="collapse navbar-collapse" id="menubar">
+                                                <ul>
+
+
+
+                                                    <?php if (isset($_SESSION['permiso'])) : ?>
+
+                                                        <?php if ($_SESSION['permiso'] == 'es true') : ?>
+                                                            <li>
+                                                                <a href="#">Administración </a>
+                                                                <ul>
+                                                                    <li><a href="admin">videos</a></li>
+                                                                    <li><a href="admin_msj">mensajes</a></li>
+                                                                    <li><a href="model/logout">Cerrar sesión</a></li>
+                                                                </ul>
+
+                                                            </li>
+                                                        <?php else : ?>
+                                                            <li>
+                                                                <a href="login">Iniciar sesión</a>
+                                                            </li>
+                                                        <?php endif; ?>
+
+                                                    <?php else : ?>
+                                                        <li>
+                                                            <a href="login">Iniciar sesión</a>
+                                                        </li>
+                                                    <?php endif; ?>
+
+
+                                                </ul>
+
+                                            </div>
+                                        </div>
                                     </div>
 
                                 </div>
@@ -93,9 +126,8 @@ session_start() ?>
                     <!-- <a href="index" class="default-btn "><img src="assets/images/logo/1.png" alt="logo"></a> -->
                     <div class="header__logo">
 
-                        <a href="index" class="d-none d-xl-block"><img src="assets/images/logo/1.png" alt="logo"></a>
+                        <a href="index" class="d-none d-xl-block"><img src="assets/images/logo/1.png" width="100" alt="logo"></a>
                         <a href="index" class="d-xl-none"><img src="assets/images/logo/1.png" alt="logo"></a>
-
 
                     </div>
                     <div class="header__bar">
@@ -140,30 +172,6 @@ session_start() ?>
                                     <a href="vivo"><span class="text-danger">EN VIVO <i class="fas fa-heart"></i></span></a>
 
                                 </li>
-                                <?php if (isset($_SESSION['permiso'])) : ?>
-
-                                    <?php if ($_SESSION['permiso'] == 'es true') : ?>
-                                        <li>
-                                            <a href="#">Administración </a>
-                                            <ul>
-                                                <li><a href="admin">videos</a></li>
-                                                <li><a href="admin_msj">mensajes</a></li>
-                                                <li><a href="model/logout">Cerrar sesión</a></li>
-                                            </ul>
-
-                                        </li>
-                                    <?php else : ?>
-                                        <li>
-                                            <a href="login">Iniciar sesión</a>
-                                        </li>
-                                    <?php endif; ?>
-
-                                <?php else : ?>
-                                    <li>
-                                        <a href="login">Iniciar sesión</a>
-                                    </li>
-                                <?php endif; ?>
-
 
                             </ul>
 
