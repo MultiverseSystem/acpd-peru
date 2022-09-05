@@ -90,11 +90,11 @@ session_start() ?>
         <div class="header__bottom">
             <div class="container">
                 <div class="header__mainmenu navbar navbar-expand-xl navbar-light">
-                    <!-- <a href="index.php" class="default-btn "><img src="assets/images/logo/1.png" alt="logo"></a> -->
+                    <!-- <a href="index" class="default-btn "><img src="assets/images/logo/1.png" alt="logo"></a> -->
                     <div class="header__logo">
 
-                        <a href="index.php" class="d-none d-xl-block"><img src="assets/images/logo/1.png" alt="logo"></a>
-                        <a href="index.php" class="d-xl-none"><img src="assets/images/logo/1.png" alt="logo"></a>
+                        <a href="index" class="d-none d-xl-block"><img src="assets/images/logo/1.png" alt="logo"></a>
+                        <a href="index" class="d-xl-none"><img src="assets/images/logo/1.png" alt="logo"></a>
 
 
                     </div>
@@ -114,30 +114,30 @@ session_start() ?>
 
 
                                 <li>
-                                    <a href="index.php">INICIO</a>
+                                    <a href="/">INICIO</a>
                                 </li>
                                 <li>
-                                    <a href="nosotros.php">NOSOTROS</a>
+                                    <a href="nosotros">NOSOTROS</a>
                                 </li>
                                 <li>
-                                    <a href="programas.php">PROGRAMAS</a>
+                                    <a href="programas">PROGRAMAS</a>
                                 </li>
                                 <li>
-                                    <a href="actividades.php">ACTIVIDADES</a>
+                                    <a href="actividades">ACTIVIDADES</a>
                                 </li>
                                 <li>
                                     <a href="#">GALERÍA</a>
                                     <ul>
-                                        <li><a href="videos.php">videos</a></li>
-                                        <li><a href="galeria.php">fotografías</a></li>
-                                        <li><a href="mensajes.php">predicas</a></li>
+                                        <li><a href="videos">videos</a></li>
+                                        <li><a href="galeria">fotografías</a></li>
+                                        <li><a href="mensajes">predicas</a></li>
                                     </ul>
                                 </li>
                                 <li>
-                                    <a href="contacto.php">CONTÁCTANOS</a>
+                                    <a href="contacto">CONTÁCTANOS</a>
                                 </li>
                                 <li>
-                                    <a href="vivo.php"><span class="text-danger">EN VIVO <i class="fas fa-heart"></i></span></a>
+                                    <a href="vivo"><span class="text-danger">EN VIVO <i class="fas fa-heart"></i></span></a>
 
                                 </li>
                                 <?php if (isset($_SESSION['permiso'])) : ?>
@@ -146,21 +146,21 @@ session_start() ?>
                                         <li>
                                             <a href="#">Administración </a>
                                             <ul>
-                                                <li><a href="admin.php">videos</a></li>
-                                                <li><a href="admin_msj.php">mensajes</a></li>
-                                                <li><a href="model/logout.php">Cerrar sesión</a></li>
+                                                <li><a href="admin">videos</a></li>
+                                                <li><a href="admin_msj">mensajes</a></li>
+                                                <li><a href="model/logout">Cerrar sesión</a></li>
                                             </ul>
 
                                         </li>
                                     <?php else : ?>
                                         <li>
-                                            <a href="login.php">Iniciar sesión</a>
+                                            <a href="login">Iniciar sesión</a>
                                         </li>
                                     <?php endif; ?>
 
                                 <?php else : ?>
                                     <li>
-                                        <a href="login.php">Iniciar sesión</a>
+                                        <a href="login">Iniciar sesión</a>
                                     </li>
                                 <?php endif; ?>
 
