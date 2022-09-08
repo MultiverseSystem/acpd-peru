@@ -16,7 +16,7 @@ $(document).on("submit", "#inicio-sesion-admin", function (e) {
   })
     .then((res) => res.json())
     .then((data) =>
-      data === "ok" ? $(location).attr("href", "/acpd-peru/admin") : ""
+      data === "ok" ? $(location).attr("href", "admin") : ""
     );
 });
 

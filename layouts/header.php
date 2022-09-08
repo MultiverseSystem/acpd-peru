@@ -82,7 +82,7 @@ session_start();
                                     </button>
                                     <ul class="dropdown-menu dropdown-menu-dark">
 
-                                                <li><a class="dropdown-item" href="/acpd-peru/admin">Admin Videos</a></li>
+                                                <li><a class="dropdown-item" href="admin">Admin Videos</a></li>
                                                 <li><a class="dropdown-item" href="#" id="cerrar-sesion">Cerrar Sesión</a></li>
                                    
                                     </ul>
