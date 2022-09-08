@@ -8,7 +8,7 @@ if ($_POST['nombre'] == '' || $_POST['correo'] == '' || $_POST['asunto'] == '' |
     return;
 } else {
 
-    $para  = 'info@acpd-peru.com';
+    $para  = 'contacto@acpd-peru.com';
     // // título
     $título = "Mensaje del Sitio Web ACPD PERU";
 
