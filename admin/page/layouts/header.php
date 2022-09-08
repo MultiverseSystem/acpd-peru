@@ -23,7 +23,7 @@
             <a class="nav-link " aria-current="page" href="/">Inicio</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link <?php if ($_SERVER['REQUEST_URI'] == '/acpd-peru/admin/') { ?> active<?php } ?>" href="/acpd-peru/admin">Videos</a>
+            <a class="nav-link <?php if ($_SERVER['REQUEST_URI'] == '/admin') { ?> active<?php } ?>" href="/acpd-peru/admin">Videos</a>
           </li>
         </ul>
 
