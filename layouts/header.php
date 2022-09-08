@@ -11,10 +11,12 @@ session_start();
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>acdp-peru</title>
-    <meta name="description" content="Somos una gran familia en Cristo, con la sede principal en Lima e iglesias hijas en las comunidades shipibas de Shetebo y Cannan en Loreto.">
+    <meta name="description" content="Somos una gran familia en Cristo, con la sede principal en Lima e iglesias hijas en las comunidades shipibas de Shetebo y Cannan en Loreto." />
     <meta name="keywords" content="iglesia, fe, pueblo de dios, iglesia cristiana, Oración">
+    <meta name="robots" content="index, follow">
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="IGLESIA CRISTIANA PUEBLO DE DIOS" />
     <link rel="shortcut icon" href="assets/images/icon/logomin.png" type="image/x-icon">
-
     <link rel="stylesheet" href="assets/css/animate.css">
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/all.min.css">
@@ -76,20 +78,20 @@ session_start();
                                     </ul>
                                 </div>
                                 <?php if (isset($_SESSION['iniciarSesion']) && $_SESSION['iniciarSesion'] == 'ok') : ?>
-                                <div class="dropdown">
-                                    <button class="btn btn-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
-                                        Administración
-                                    </button>
-                                    <ul class="dropdown-menu dropdown-menu-dark">
+                                    <div class="dropdown">
+                                        <button class="btn btn-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                            Administración
+                                        </button>
+                                        <ul class="dropdown-menu dropdown-menu-dark">
 
-                                                <li><a class="dropdown-item" href="admin">Admin Videos</a></li>
-                                                <li><a class="dropdown-item" href="#" id="cerrar-sesion">Cerrar Sesión</a></li>
-                                   
-                                    </ul>
-                                </div>
+                                            <li><a class="dropdown-item" href="admin">Admin Videos</a></li>
+                                            <li><a class="dropdown-item" href="#" id="cerrar-sesion">Cerrar Sesión</a></li>
+
+                                        </ul>
+                                    </div>
                                 <?php else : ?>
-                                <a class="btn btn-outline-light" href="admin/login">Iniciar sesión</a>
-                            <?php endif; ?>
+                                    <a class="btn btn-outline-light" href="admin/login">Iniciar sesión</a>
+                                <?php endif; ?>
 
 
                             </div>
@@ -107,7 +109,7 @@ session_start();
     <header class="header">
 
 
-        <div class="header__bottom p-2" >
+        <div class="header__bottom p-2">
             <div class="container">
                 <div class="header__mainmenu navbar navbar-expand-xl navbar-dark">
                     <div class="header__logo">
@@ -122,7 +124,7 @@ session_start();
                             <span class="fas fa-info"></span>
                         </button>
                     </div>
-                    <div class="header__menu navbar-expand-xl" >
+                    <div class="header__menu navbar-expand-xl">
                         <div class="collapse navbar-collapse text-white" id="menubar">
                             <ul>
 
