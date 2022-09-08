@@ -10,7 +10,7 @@ if ($_POST['nombre'] == '' || $_POST['correo'] == '' || $_POST['asunto'] == '' |
 
     $para  = 'info@acpd-peru.com';
     // // título
-    $título = "Formulario de contacto";
+    $título = "Mensaje del Sitio Web ACPD PERU";
 
     $servicios = '';
 
@@ -23,7 +23,7 @@ if ($_POST['nombre'] == '' || $_POST['correo'] == '' || $_POST['asunto'] == '' |
         $servicios
         . '</ul>
             <p><b>Email:</b>' . $_POST['correo'] . '</p>
-            <p><b>Teléfono:</b>' . $_POST['asunto'] . '</p>
+            <p><b>Asunto:</b>' . $_POST['asunto'] . '</p>
             <p><b>Mensaje:</b>'  . $_POST['mensaje'] . '</p>     
             </body>
             </html>
