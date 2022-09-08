@@ -71,7 +71,7 @@
                     </ul>
                 </div>
                 <div class="eventtime__right">
-                    <a href="/acpd-peru/vivo" class="default-btn move-right"><span>VER EN VIVO</span></a>
+                    <a href="vivo" class="default-btn move-right"><span>VER EN VIVO</span></a>
                 </div>
             </div>
         </div>
