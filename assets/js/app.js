@@ -160,8 +160,6 @@ $(document).ready(function () {
     });
 });
 
-
-
 $(document).on("click", "#cerrar-sesion", function (e) {
   e.preventDefault();
   fetch("admin/api/usuario.api.php?sesion=cerrar", {
@@ -173,4 +171,39 @@ $(document).on("click", "#cerrar-sesion", function (e) {
   })
     .then((res) => res.json())
     .then((data) => (data === "ok" ? $(location).attr("href", "/") : ""));
+});
+
+$("#enviar-formulario").on("submit", function (e) {
+  e.preventDefault();
+  $("#alerta-contacto").empty();
+
+  const datos = new FormData();
+  datos.append("nombre", $("#nombre").val());
+  datos.append("correo", $("#correo").val());
+  datos.append("asunto", $("#asunto").val());
+  datos.append("mensaje", $("#mensaje").val());
+  fetch("admin/api/contacto.php", {
+    method: "POST",
+    body: datos,
+  })
+    .then((data) => data.json())
+    .then((res) => {
+      if (res == "ok") {
+        $("#alerta-contacto").append(`
+        <div class="alert alert-success" role="alert">
+        Tu mensaje fue enviado exitosamente!
+    </div>
+        `);
+      }
+    })
+    .catch((err) => {
+      console.log(err);
+      if (err) {
+        $("#alerta-contacto").append(`
+        <div class="alert alert-danger" role="alert">
+        Tu mensaje no pudo ser enviado.
+    </div>
+        `);
+      }
+    });
 });
