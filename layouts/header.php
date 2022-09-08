@@ -1,10 +1,10 @@
 <?php
-error_reporting(0);
-session_start() ?>
+
+session_start();
+
+?>
 <!DOCTYPE html>
 <html lang="es">
-
-
 
 <head>
     <meta charset="UTF-8">
@@ -31,117 +31,99 @@ session_start() ?>
     <!-- ================> preloader start here <================ -->
     <div class="preloader">
         <div class="preloader-inner">
-            <!-- <img style="height:100px;width:120px ;" src="assets/images/logo/1.png" alt=""> -->
             <div class="preloader-icon">
                 <span></span>
                 <span></span>
             </div>
-
         </div>
     </div>
-
-
-    <header class="header">
-        <div class="navbar-expand-xl">
-            <div class="collapse navbar-collapse" id="menubar2">
-                <div class=" w-100">
-                    <div class="container">
-                        <div class="header__top-area">
-                            <div class="header__top-left">
-                                <ul>
-                                    <li class="colorSpam">
-                                        <i class="fas fa-phone-alt "></i>
-                                        +51 944 447 904
-                                    </li>
-
-                                </ul>
-                            </div>
-                            <div class="header__top-center">
-
-                            </div>
-                            <div class="header__top-right">
-                                <div class="header__top-socialsearch">
-                                    <div class="header__top-social">
-                                        <ul>
-                                            <li class="colorSpam"> <a href="https://twitter.com/ICPDIOS?t=L0Uq0uG2Xky37NdFHpctiA&s=09://twitter.com/wpzoom" target="_blank" rel="noopener noreferrer"><i class="fab fa-twitter colorSpam"></i> </a>
-                                            </li>
-                                            <li class="colorSpam"> <a href="https://www.instagram.com/iglesiacristianapueblodedios/?hl=es" target="_blank" rel="noopener noreferrer"><i class="fab fa-instagram colorSpam"></i> </a>
-                                            </li>
-                                            <li> <a href="https://www.youtube.com/channel/UCnQONrNqMllwQdF681fUMYA" target="_blank" rel="noopener noreferrer"><i class="fab fa-youtube colorSpam"></i> </a>
-                                            </li>
-                                            <li class="colorSpam"> <a href="https://www.facebook.com/IglepueblodeDios/" target="_blank" rel="noopener noreferrer"><i class="fab fa-facebook-f colorSpam"></i> </a>
-                                            </li>
-
-                                        </ul>
-                                    </div>
-                                    <div class="header__top-search">
-                                        <div class="header__menu navbar-expand-xl">
-                                            <div class="collapse navbar-collapse" id="menubar">
-                                                <ul>
+    <!-- ================> preloader ending here <================ -->
 
 
 
-                                                    <?php if (isset($_SESSION['permiso'])) : ?>
+    <!-- ================> Header Cart <================ -->
+    <div class="overlay"></div>
+    <div class="navbar-expand-xl">
+        <div class="collapse navbar-collapse" id="menubar2">
+            <div class=" w-100">
+                <div class="container">
+                    <div class="header__top-area">
+                        <div class="header__top-left">
+                            <ul>
+                                <li class="colorSpam">
+                                    <i class="fas fa-phone-alt "></i>
+                                    +51 944 447 904
+                                </li>
 
-                                                        <?php if ($_SESSION['permiso'] == 'es true') : ?>
-                                                            <li>
-                                                                <a href="#">Administración </a>
-                                                                <ul>
-                                                                    <li><a href="admin">videos</a></li>
-                                                                    <li><a href="admin_msj">mensajes</a></li>
-                                                                    <li><a href="model/logout">Cerrar sesión</a></li>
-                                                                </ul>
+                            </ul>
+                        </div>
+                        <div class="header__top-center">
 
-                                                            </li>
-                                                        <?php else : ?>
-                                                            <li>
-                                                                <a href="login">Iniciar sesión</a>
-                                                            </li>
-                                                        <?php endif; ?>
+                        </div>
+                        <div class="header__top-right">
+                            <div class="header__top-socialsearch">
+                                <div class="header__top-social">
+                                    <ul>
+                                        <li class="colorSpam"> <a href="https://twitter.com/ICPDIOS?t=L0Uq0uG2Xky37NdFHpctiA&s=09://twitter.com/wpzoom" target="_blank" rel="noopener noreferrer"><i class="fab fa-twitter colorSpam"></i> </a>
+                                        </li>
+                                        <li class="colorSpam"> <a href="https://www.instagram.com/iglesiacristianapueblodedios/?hl=es" target="_blank" rel="noopener noreferrer"><i class="fab fa-instagram colorSpam"></i> </a>
+                                        </li>
+                                        <li> <a href="https://www.youtube.com/channel/UCnQONrNqMllwQdF681fUMYA" target="_blank" rel="noopener noreferrer"><i class="fab fa-youtube colorSpam"></i> </a>
+                                        </li>
+                                        <li class="colorSpam"> <a href="https://www.facebook.com/IglepueblodeDios/" target="_blank" rel="noopener noreferrer"><i class="fab fa-facebook-f colorSpam"></i> </a>
+                                        </li>
 
-                                                    <?php else : ?>
-                                                        <li>
-                                                            <a href="login">Iniciar sesión</a>
-                                                        </li>
-                                                    <?php endif; ?>
-
-
-                                                </ul>
-
-                                            </div>
-                                        </div>
-                                    </div>
-
+                                    </ul>
                                 </div>
+                                <?php if (isset($_SESSION['iniciarSesion']) && $_SESSION['iniciarSesion'] == 'ok') : ?>
+                                <div class="dropdown">
+                                    <button class="btn btn-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                        Administración
+                                    </button>
+                                    <ul class="dropdown-menu dropdown-menu-dark">
+
+                                                <li><a class="dropdown-item" href="/acpd-peru/admin">Admin Videos</a></li>
+                                                <li><a class="dropdown-item" href="#" id="cerrar-sesion">Cerrar Sesión</a></li>
+                                   
+                                    </ul>
+                                </div>
+                                <?php else : ?>
+                                <a class="btn btn-outline-light" href="admin/login">Iniciar sesión</a>
+                            <?php endif; ?>
+
+
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
+    </div>
+    <!-- ================> Header Cart <================ -->
 
-        <div class="header__bottom">
+
+
+    <!-- ================> header section start here <================== -->
+    <header class="header">
+
+
+        <div class="header__bottom p-2" >
             <div class="container">
-                <div class="header__mainmenu navbar navbar-expand-xl navbar-light">
-                    <!-- <a href="index" class="default-btn "><img src="assets/images/logo/1.png" alt="logo"></a> -->
+                <div class="header__mainmenu navbar navbar-expand-xl navbar-dark">
                     <div class="header__logo">
-
-                        <a href="index" class="d-none d-xl-block"><img src="assets/images/logo/1.png" width="100" alt="logo"></a>
-                        <a href="index" class="d-xl-none"><img src="assets/images/logo/1.png" alt="logo"></a>
-
+                        <a href="index.html" class="d-none d-xl-block"><img src="assets/images/logo/02.png" alt="logo"></a>
+                        <a href="index.html" class="d-xl-none"><img src="assets/images/logo/02.png" alt="logo"></a>
                     </div>
                     <div class="header__bar">
                         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#menubar" aria-controls="menubar" aria-expanded="false" aria-label="Toggle navigation">
-                            <span class="navbar-toggler-icon "></span>
+                            <span class="navbar-toggler-icon"></span>
                         </button>
-
                         <button class="navbar-toggler header__bar-info" type="button" data-bs-toggle="collapse" data-bs-target="#menubar2" aria-controls="menubar2" aria-expanded="false" aria-label="Toggle navigation">
                             <span class="fas fa-info"></span>
                         </button>
-
                     </div>
-                    <div class="header__menu navbar-expand-xl">
-                        <div class="collapse navbar-collapse" id="menubar">
+                    <div class="header__menu navbar-expand-xl" >
+                        <div class="collapse navbar-collapse text-white" id="menubar">
                             <ul>
 
 
@@ -162,7 +144,6 @@ session_start() ?>
                                     <ul>
                                         <li><a href="videos">videos</a></li>
                                         <li><a href="galeria">fotografías</a></li>
-                                        <li><a href="mensajes">predicas</a></li>
                                     </ul>
                                 </li>
                                 <li>
@@ -170,7 +151,6 @@ session_start() ?>
                                 </li>
                                 <li>
                                     <a href="vivo"><span class="text-danger">EN VIVO <i class="fas fa-heart"></i></span></a>
-
                                 </li>
 
                             </ul>
@@ -181,3 +161,4 @@ session_start() ?>
             </div>
         </div>
     </header>
+    <!-- ================> header section end here <================== -->

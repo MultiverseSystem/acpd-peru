@@ -1,5 +1,5 @@
 <?php require_once "layouts/header.php"; ?>
-<!-- ================> Banner section start here <================== -->
+
 <div class="banner__slider banner-style2 overflow-hidden">
     <div class="swiper-wrapper">
         <div class="swiper-slide">
@@ -7,7 +7,7 @@
                 <div class="container  d-flex justify-content-center">
                     <div class="banner__content  row text-center">
                         <div class="fs-4">
-                            
+
                             <h1 style="font-family: Roboto,sans-serif;" class="text-white fw-bold">PUEBLO DE DIOS</h1>
                             <p class="text-white ">BIENVENIDOS A LA IGLESIA</p>
                             <a href="nosotros.php" class="default-btn move-right "><span>SABER MÁS</span></a>
@@ -22,8 +22,8 @@
                 <div class="container d-flex justify-content-start">
                     <div class="banner__content  row ">
                         <div class="fs-4">
-                            <h1 style="font-family: Roboto,sans-serif;" class="fw-bold">FAMILIA UNIDA</h1>
-                            <p class="text-dark">UNA FAMILIA UNIDA ES UN REGALO QUE DURA PARA SIEMRPE</p>
+                            <h1 style="font-family: Roboto,sans-serif;" class="text-white fw-bold">FAMILIA UNIDA</h1>
+                            <p class="text-white">UNA FAMILIA UNIDA ES UN REGALO QUE DURA PARA SIEMRPE</p>
                             <a href="actividades.php" class="default-btn  move-right"><span>UNETE</span></a>
                         </div>
                     </div>
@@ -40,53 +40,45 @@
                             <a href="programas.php" class="default-btn move-right"><span>SIGUENOS</span></a>
                         </div>
                     </div>
-
-
-
                 </div>
             </div>
         </div>
     </div>
 </div>
+
+
 <!-- ================> Banner section end here <================== -->
 
 
-
-<!-- ================> Event Time section start here <================== -->
-<div class="eventtime">
-    <div class="container">
-        <div class="eventtime__area">
-            <div class="eventtime__left">
-                <h2 style="color:#3B9AE1;">Próximo evento</h2>
-            </div>
-            <div class="eventtime__center">
-                <ul class="countdown count-down">
-
-
-                    <li class="clock-item mx-5">
-                        <p class="count-text">DOMINGO</p>
-                    </li>
-
-                    <li class="clock-item mx-5">
-
-                        <p class="count-text">10:30</p>
-                    </li>
-
-                    <li class="clock-item mx-5">
-
-                        <p class="count-text">AM</p>
-                    </li>
-
-
-                </ul>
-            </div>
-            <div class="eventtime__right">
-                <a href="vivo.php" class="default-btn move-right"><span>IN LIVE</span></a>
+<section>
+    <div class="eventtime">
+        <div class="container">
+            <div class="eventtime__area">
+                <div class="eventtime__left">
+                    <h2>Proxima transmisión</h2>
+                </div>
+                <div class="eventtime__center">
+                    <ul class="countdown count-down" data-date="Nove 09, 2022 21:14:01">
+                        <li class="clock-item">
+                            <p class="count-text">DOMINGO</p>
+                        </li>
+                        <li class="clock-item">
+                            <span class="count-number hours">10:30</span>
+                        </li>
+                        <li class="clock-item">
+                            <span class="count-number minutes">AM</span>
+                        </li>
+                    </ul>
+                </div>
+                <div class="eventtime__right">
+                    <a href="/acpd-peru/vivo" class="default-btn move-right"><span>VER EN VIVO</span></a>
+                </div>
             </div>
         </div>
     </div>
-</div>
-<!-- ================> Event Time section end here <================== -->
+</section>
+
+
 
 <!-- ================> Event section start here <================== -->
 <div class="event padding--top padding--bottom">
@@ -100,15 +92,15 @@
                     <div class="event__item">
                         <div class="event__inner ">
                             <div class="event__thumb ">
-                                <img  src="assets/images/servicios/1.jpg" alt="event thumb" style="height:350px ;filter: brightness(50%);">
+                                <img src="assets/images/servicios/1.jpg" alt="event thumb" style="height:350px ;filter: brightness(50%);">
                                 <div class="event__content centrado1 text-center text-white">
-                                <h4 class="text-white">Pedidos de </h4>
-                                <h4 class="text-white">Oración</h4>
-                                <div class="event__metapost">
+                                    <h4 class="text-white">Pedidos de </h4>
+                                    <h4 class="text-white">Oración</h4>
+                                    <div class="event__metapost">
+                                    </div>
+                                    <p>“Deléitate asimismo en Jehová, Y él te concederá las peticiones de tu corazón.”Salmos 37:4.</p>
+                                    <a href="contacto.php" class="default-btn move-right"><span>CONTÁCTANOS</span></a>
                                 </div>
-                                <p>“Deléitate asimismo en Jehová, Y él te concederá las peticiones de tu corazón.”Salmos 37:4.</p>
-                                <a href="contacto.php" class="default-btn move-right"><span>CONTÁCTANOS</span></a>
-                            </div>
                             </div>
 
                         </div>
@@ -120,15 +112,15 @@
                             <div class="event__thumb">
                                 <img src="assets/images/servicios/2.jpg" alt="event thumb" style="height:350px ;filter: brightness(50%);">
                                 <div class="event__content centrado1 text-center text-white">
-                                <h4 class="text-white">Campañas </h4>
-                                <h4 class="text-white">Sociales</h4>
-                                <div class="event__metapost">
+                                    <h4 class="text-white">Campañas </h4>
+                                    <h4 class="text-white">Sociales</h4>
+                                    <div class="event__metapost">
+                                    </div>
+                                    <p>Nosotros como hermanos, hacemos diferentes tipos de campañas, ingresa para que te enteres más.</p>
+                                    <a href="programas.php" class="default-btn move-right"><span>SABER MÁS</span></a>
                                 </div>
-                                <p>Nosotros como hermanos, hacemos diferentes tipos de campañas, ingresa para que te enteres más.</p>
-                                <a href="programas.php" class="default-btn move-right"><span>SABER MÁS</span></a>
                             </div>
-                            </div>
- 
+
                         </div>
                     </div>
                 </div>
@@ -138,12 +130,12 @@
                             <div class="event__thumb">
                                 <img src="assets/images/servicios/3.jpg" alt="event thumb" style="height:350px ;filter: brightness(50%);">
                                 <div class="event__content centrado1 text-center text-white">
-                                <h4 class="text-white">Culto Dominical</h4>
-                                <div class="event__metapost">
+                                    <h4 class="text-white">Culto Dominical</h4>
+                                    <div class="event__metapost">
+                                    </div>
+                                    <p>Participa de nuestro servicio cada domingo de manera presencial o virtual a partir de las 10:30 a.m</p>
+                                    <a href="vivo.php" class="default-btn move-right"><span>EN VIVO</span></a>
                                 </div>
-                                <p>Participa de nuestro servicio cada domingo de manera presencial o virtual a partir de las 10:30 a.m</p>
-                                <a href="vivo.php" class="default-btn move-right"><span>EN VIVO</span></a>
-                            </div>
                             </div>
 
                         </div>
@@ -263,5 +255,5 @@
 <!-- ================> gallery section end here <================== -->
 
 <?php require_once "layouts/apoyo.php" ?>
-<?php require_once "layouts/ubicacion.php"; ?>
+
 <?php require_once "layouts/footer.php"; ?>

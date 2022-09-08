@@ -4,21 +4,21 @@
     <div class="container">
         <div class="row g-4">
             <div class="col-lg-4 col-12">
+                <img src="assets/images/logo/isotipo.png" alt="about">
                 <div class="about__thumbpart">
-                    <img src="assets/images/about/logoSVG.svg" alt="about">
-                    <h4>IGLESIA CRISTIANA PUEBLO DE DIOS</h4>
-                      <ul>
+                    <h4 style="color: #3c5b95;">IGLESIA CRISTIANA PUEBLO DE DIOS</h4>
+                    <ul>
                         <li><a href="https://www.facebook.com/IglepueblodeDios/" target="_blank" rel="noopener noreferrer"><i class="fab fa-facebook-f"></i></a></li>
                         <li><a href="https://twitter.com/ICPDIOS?t=L0Uq0uG2Xky37NdFHpctiA&s=09://twitter.com/wpzoom" target="_blank" rel="noopener noreferrer"><i class="fab fa-twitter"></i></a></li>
                         <li><a href="https://www.instagram.com/iglesiacristianapueblodedios/?hl=es" target="_blank" rel="noopener noreferrer"><i class="fab fa-instagram"></i></a></li>
-                        <li><a href="https://www.youtube.com/channel/UCnQONrNqMllwQdF681fUMYA" target="_blank" rel="noopener noreferrer"><i class="fab fa-youtube"></i></a></li>         
+                        <li><a href="https://www.youtube.com/channel/UCnQONrNqMllwQdF681fUMYA" target="_blank" rel="noopener noreferrer"><i class="fab fa-youtube"></i></a></li>
                     </ul>
                 </div>
             </div>
             <div class="col-lg-8 col-12">
                 <div class="about__contentpart ms-lg-4 ps-lg-5 border-start">
                     <div class="section__header">
-                        <h2>QUIENES SOMOS</h2>
+                        <h2 style="color: #3c5b95;">QUIENES SOMOS</h2>
                         <P>Somos una gran familia en Cristo, con la sede principal en Lima e iglesias hijas en las comunidades shipibas de Shetebo y Cannan en Loreto. </P>
                     </div>
                     <div class="section__wrapper">
@@ -77,27 +77,7 @@
 
 
                     <div class="shop-product-wrap gridlist row justify-content-center g-4">
-                    <h2 class="text-center">NUESTROS PASTORES</h2>
-
-                        <div class="col-lg-4 col-md-6 col-12">
-                            <div class="product-item">
-                                <div class="product-thumb">
-                                    <div class="pro-thumb">
-                                        <img src="assets/images/pastores/1.jpg" alt="shop">
-                                    </div>
-                                    <div class="product-action-link">
-                                    </div>
-                                </div>
-                                <div class="product-content">
-                                    <h5>Misael Huayta </h5>
-                                    <p>PASTOR</p>
-                                    <p><i class="icofont-star"></i><i class="icofont-star"></i><i class="icofont-star"></i><i class="icofont-star"></i><i class="icofont-star"></i></p>
-                        
-                                </div>
-                            </div>
-                         
-                        </div>
-
+                        <h2 class="text-center" style="color: #3c5b95;">NUESTROS PASTORES</h2>
                         <div class="col-lg-4 col-md-6 col-12">
                             <div class="product-item">
                                 <div class="product-thumb">
@@ -113,11 +93,14 @@
                                     <h5>Ruben Cifuentes</h5>
                                     <p>PASTOR GENERAL</p>
                                     <p><i class="icofont-star"></i><i class="icofont-star"></i><i class="icofont-star"></i><i class="icofont-star"></i><i class="icofont-star"></i></p>
-                              
+
                                 </div>
                             </div>
-                           
+
                         </div>
+
+
+
 
                         <div class="col-lg-4 col-md-6 col-12">
                             <div class="product-item">
@@ -135,10 +118,28 @@
                                     <p>
                                         <i class="icofont-star"></i><i class="icofont-star"></i><i class="icofont-star"></i><i class="icofont-star"></i><i class="icofont-star"></i>
                                     </p>
-                                  
+
                                 </div>
                             </div>
-                            
+
+                        </div>
+                        <div class="col-lg-4 col-md-6 col-12">
+                            <div class="product-item">
+                                <div class="product-thumb">
+                                    <div class="pro-thumb">
+                                        <img src="assets/images/pastores/1.jpg" alt="shop">
+                                    </div>
+                                    <div class="product-action-link">
+                                    </div>
+                                </div>
+                                <div class="product-content">
+                                    <h5>Misael Huayta </h5>
+                                    <p>PASTOR</p>
+                                    <p><i class="icofont-star"></i><i class="icofont-star"></i><i class="icofont-star"></i><i class="icofont-star"></i><i class="icofont-star"></i></p>
+
+                                </div>
+                            </div>
+
                         </div>
                     </div>
                 </article>
@@ -154,10 +155,10 @@
             <div class="col-lg-9 col-12">
                 <article>
                     <div class="shop-product-wrap gridlist row justify-content-center g-4">
-                    <h2 class="text-center">NUESTROS MISIONEROS</h2>
+                        <h2 class="text-center" style="color: #3c5b95;">NUESTROS MISIONEROS</h2>
 
                         <div class="col-lg-6 col-md-6 col-12">
-                            
+
                             <div class="product-item">
                                 <div class="product-thumb">
                                     <div class="pro-thumb">
@@ -165,7 +166,7 @@
                                     </div>
                                     <div class="product-action-link">
                                         <a href="https://wa.link/tf3jfn" target="_blank" rel="noopener noreferrer"><i class="fab fa-whatsapp"></i></a>
-                                     </div>
+                                    </div>
                                 </div>
                                 <div class="product-content">
                                     <h5>MARIELA RIVERA</h5>
@@ -173,10 +174,10 @@
                                     <p>
                                         <i class="icofont-star"></i><i class="icofont-star"></i><i class="icofont-star"></i><i class="icofont-star"></i><i class="icofont-star"></i>
                                     </p>
-                                    
+
                                 </div>
                             </div>
-                           
+
                         </div>
                         <div class="col-lg-6 col-md-6 col-12">
                             <div class="product-item">
@@ -185,8 +186,8 @@
                                         <img src="assets/images/pastores/5.jpg" alt="shop">
                                     </div>
                                     <div class="product-action-link">
-                                         <a href="https://wa.link/f2m721" target="_blank" rel="noopener noreferrer"><i class="fab fa-whatsapp"></i></a>
-                                     </div>
+                                        <a href="https://wa.link/f2m721" target="_blank" rel="noopener noreferrer"><i class="fab fa-whatsapp"></i></a>
+                                    </div>
                                 </div>
                                 <div class="product-content">
                                     <h5>DORA CORDOVA</h5>
@@ -194,7 +195,7 @@
                                     <p>
                                         <i class="icofont-star"></i><i class="icofont-star"></i><i class="icofont-star"></i><i class="icofont-star"></i><i class="icofont-star"></i>
                                     </p>
-                                   
+
                                 </div>
                             </div>
                         </div>
@@ -207,7 +208,7 @@
 
 
         </div>
-    
+
     </div>
 </div>
 
@@ -216,5 +217,4 @@
 
 
 <?php require_once "layouts/apoyo.php" ?>
-<?php require_once "layouts/ubicacion.php" ?>
 <?php require_once 'layouts/footer.php' ?>

@@ -10,12 +10,13 @@
                 <div class="col-xl-3 col-sm-6 col-12">
 
                     <div class="text-center">
-                        <div class="mb-1">
-                            <img src="assets/images/icon/smil.png" class="mb-2" alt="">
+                        <div class="mb-2 text-white">
+                            <i class="fas fa-smile-beam" style="font-size: 9rem;"></i>
+
                         </div>
 
                         <div class="cause__content">
-                            <h4 style="color:#569be1">ESPIRITUAL</h4>
+                            <h5 class="text-white">ESPIRITUAL</h5>
                             <h6>Con oración y mensaje de aliento.</h6>
                         </div>
                     </div>
@@ -23,25 +24,27 @@
                 <div class="col-xl-4 col-sm-6 col-12">
 
                     <div class="text-center">
-                        <div class="mb-2">
-                            <img src="assets/images/icon/gift.png" alt="">
+                        <div class="mb-2 text-white">
+                            <i class="fas fa-gift" style="font-size: 9rem;"></i>
+
 
                         </div>
 
                         <div class="cause__content">
-                            <h4 style="color:#569be1">DONATIVOS</h4>
+                            <h5 class="text-white">DONATIVOS</h5>
                             <h6>Con tus donaciones podemos ayudar al prójimo.</h6>
                         </div>
                     </div>
                 </div>
                 <div class="col-xl-3 col-sm-6 col-12">
                     <div class="text-center">
-                        <div class="mb-2">
-                            <img src="assets/images/icon/religioso.png" alt="">
+                        <div class="mb-2 text-white">
+                            <i class="fas fa-bible" style="font-size: 9rem;"></i>
                         </div>
 
                         <div class="cause__content">
-                            <h5 style="color:#569be1">CAMINO MISIONERO</h5>
+                            <h5 class="text-white">CAMINO MISIONERO</h5>
+
                             <h6>Llevar la palabra de Dios a los lugares más alejados de nuestro país.</h6>
                         </div>
                     </div>
@@ -60,5 +63,3 @@
     </div>
 </div>
 <!-- ================> Cause section end here <================== -->
-
-

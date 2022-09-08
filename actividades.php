@@ -146,5 +146,4 @@
 
 
 <?php require_once "layouts/apoyo.php"; ?>
-<?php require_once "layouts/ubicacion.php"; ?>
 <?php require_once "layouts/footer.php";  ?>

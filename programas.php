@@ -4,7 +4,7 @@
 <div class="event padding--top padding--bottom bg-light">
     <div class="container">
         <div class="section__header text-center">
-            <h2>PROGRAMAS</h2>
+            <h2 style="color: #3c5b95;">PROGRAMAS</h2>
         </div>
         <div class="section__wrapper">
             <div class="row g-4 justify-content-center">
@@ -150,5 +150,4 @@
 <!-- ================> Event section end here <================== -->
 
 <?php require_once "layouts/apoyo.php"; ?>
-<?php require_once "layouts/ubicacion.php"; ?>
 <?php require_once "layouts/footer.php";  ?>

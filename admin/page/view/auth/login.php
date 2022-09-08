@@ -1,4 +1,4 @@
-<?php require_once "layouts/header.php"; ?>
+
 
 <div class="container mb-5">
     <div class="">
@@ -7,14 +7,14 @@
                 <div class="text-center">
                     <h3 class="text-primary">Iniciar sesión</h3>
                 </div>
-                <form class="form" action="model/login.php" method="POST">
+                <form class="form" id="inicio-sesion-admin">
                     <div class="input-group mb-3">
 
-                        <input type="text" class="form-control" placeholder="Usuario" name="name">
+                        <input type="email" class="form-control" placeholder="Correo Electronico" id="correo-admin" name="correo-admin">
                     </div>
                     <div class="input-group mb-3">
 
-                        <input type="password" class="form-control" placeholder="Contraseña" name="password">
+                        <input type="password" class="form-control" placeholder="Contraseña" id="password-admin" name="password-admin">
                     </div>
                     <button class="btn btn-primary btn-block" type="submit">
                         Iniciar sesión
@@ -24,4 +24,3 @@
         </div>
     </div>
 </div>
-<?php require_once "layouts/footer.php"; ?>
