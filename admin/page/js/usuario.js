@@ -15,9 +15,7 @@ $(document).on("submit", "#inicio-sesion-admin", function (e) {
     body: JSON.stringify(datos),
   })
     .then((res) => res.json())
-    .then((data) =>
-      data === "ok" ? $(location).attr("href", "admin") : ""
-    );
+    .then((data) => (data === "ok" ? $(location).attr("href", "/admin") : ""));
 });
 
 $(document).on("click", "#cerrar-sesion", function (e) {
