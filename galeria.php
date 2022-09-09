@@ -25,10 +25,10 @@
                         <div class="gallery__item">
                             <div class="gallery__inner">
                                 <div class="gallery__thumb">
-                                    <img src="assets/images/galeria/navidad/1.png" alt="gallery-thumb" class="w-100">
+                                    <img src="assets/images/galeria/navidad/1.webp" alt="gallery-thumb" class="w-100" alt="iglesia cristiana">
                                 </div>
                                 <div class="gallery__content text-center">
-                                    <a href="assets/images/galeria/navidad/1.png" data-rel="lightcase" class="gallery__icon"><i class="fas fa-plus"></i></a>
+                                    <a href="assets/images/galeria/navidad/1.webp" data-rel="lightcase" class="gallery__icon"><i class="fas fa-plus"></i></a>
                                     <a href="https://es-la.facebook.com/IglepueblodeDios/" target="_blank" rel="noopener noreferrer" class="gallery__icon"><i class="fas fa-share-alt"></i></a>
                                 </div>
                             </div>
@@ -38,10 +38,10 @@
                         <div class="gallery__item">
                             <div class="gallery__inner">
                                 <div class="gallery__thumb">
-                                    <img src="assets/images/galeria/navidad/2.png" alt="gallery-thumb" class="w-100">
+                                    <img src="assets/images/galeria/navidad/2.webp" alt="gallery-thumb" class="w-100" alt="iglesia cristiana">
                                 </div>
                                 <div class="gallery__content text-center">
-                                    <a href="assets/images/galeria/navidad/2.png" data-rel="lightcase" class="gallery__icon"><i class="fas fa-plus"></i></a>
+                                    <a href="assets/images/galeria/navidad/2.webp" data-rel="lightcase" class="gallery__icon"><i class="fas fa-plus"></i></a>
                                     <a href="https://es-la.facebook.com/IglepueblodeDios/" target="_blank" rel="noopener noreferrer" class="gallery__icon"><i class="fas fa-share-alt"></i></a>
                                 </div>
                             </div>
@@ -51,10 +51,10 @@
                         <div class="gallery__item">
                             <div class="gallery__inner">
                                 <div class="gallery__thumb">
-                                    <img src="assets/images/galeria/navidad/3.png" alt="gallery-thumb" class="w-100">
+                                    <img src="assets/images/galeria/navidad/3.webp" alt="gallery-thumb" class="w-100" alt="iglesia cristiana">
                                 </div>
                                 <div class="gallery__content text-center">
-                                    <a href="assets/images/galeria/navidad/3.png" data-rel="lightcase" class="gallery__icon"><i class="fas fa-plus"></i></a>
+                                    <a href="assets/images/galeria/navidad/3.webp" data-rel="lightcase" class="gallery__icon"><i class="fas fa-plus"></i></a>
                                     <a href="https://es-la.facebook.com/IglepueblodeDios/" target="_blank" rel="noopener noreferrer" class="gallery__icon"><i class="fas fa-share-alt"></i></a>
                                 </div>
                             </div>
@@ -64,10 +64,10 @@
                         <div class="gallery__item">
                             <div class="gallery__inner">
                                 <div class="gallery__thumb">
-                                    <img src="assets/images/galeria/navidad/4.png" alt="gallery-thumb" class="w-100">
+                                    <img src="assets/images/galeria/navidad/4.webp" alt="gallery-thumb" class="w-100" alt="iglesia cristiana">
                                 </div>
                                 <div class="gallery__content text-center">
-                                    <a href="assets/images/galeria/navidad/4.png" data-rel="lightcase" class="gallery__icon"><i class="fas fa-plus"></i></a>
+                                    <a href="assets/images/galeria/navidad/4.webp" data-rel="lightcase" class="gallery__icon"><i class="fas fa-plus"></i></a>
                                     <a href="https://es-la.facebook.com/IglepueblodeDios/" target="_blank" rel="noopener noreferrer" class="gallery__icon"><i class="fas fa-share-alt"></i></a>
                                 </div>
                             </div>
@@ -77,10 +77,10 @@
                         <div class="gallery__item">
                             <div class="gallery__inner">
                                 <div class="gallery__thumb">
-                                    <img src="assets/images/galeria/navidad/5.png" alt="gallery-thumb" class="w-100">
+                                    <img src="assets/images/galeria/navidad/5.webp" alt="gallery-thumb" class="w-100" alt="iglesia cristiana">
                                 </div>
                                 <div class="gallery__content text-center">
-                                    <a href="assets/images/galeria/navidad/5.png" data-rel="lightcase" class="gallery__icon"><i class="fas fa-plus"></i></a>
+                                    <a href="assets/images/galeria/navidad/5.webp" data-rel="lightcase" class="gallery__icon"><i class="fas fa-plus"></i></a>
                                     <a href="https://es-la.facebook.com/IglepueblodeDios/" target="_blank" rel="noopener noreferrer" class="gallery__icon"><i class="fas fa-share-alt"></i></a>
                                 </div>
                             </div>
@@ -90,10 +90,10 @@
                         <div class="gallery__item">
                             <div class="gallery__inner">
                                 <div class="gallery__thumb">
-                                    <img src="assets/images/galeria/medico/1.png" alt="gallery-thumb" class="w-100">
+                                    <img src="assets/images/galeria/medico/1.webp" alt="gallery-thumb" class="w-100" alt="iglesia cristiana">
                                 </div>
                                 <div class="gallery__content text-center">
-                                    <a href="assets/images/galeria/medico/1.png" data-rel="lightcase" class="gallery__icon"><i class="fas fa-plus"></i></a>
+                                    <a href="assets/images/galeria/medico/1.webp" data-rel="lightcase" class="gallery__icon"><i class="fas fa-plus"></i></a>
                                     <a href="https://es-la.facebook.com/IglepueblodeDios/" target="_blank" rel="noopener noreferrer" class="gallery__icon"><i class="fas fa-share-alt"></i></a>
                                 </div>
                             </div>
@@ -103,10 +103,10 @@
                         <div class="gallery__item">
                             <div class="gallery__inner">
                                 <div class="gallery__thumb">
-                                    <img src="assets/images/galeria/medico/2.png" alt="gallery-thumb" class="w-100">
+                                    <img src="assets/images/galeria/medico/2.webp" alt="gallery-thumb" class="w-100" alt="iglesia cristiana">
                                 </div>
                                 <div class="gallery__content text-center">
-                                    <a href="assets/images/galeria/medico/2.png" data-rel="lightcase" class="gallery__icon"><i class="fas fa-plus"></i></a>
+                                    <a href="assets/images/galeria/medico/2.webp" data-rel="lightcase" class="gallery__icon"><i class="fas fa-plus"></i></a>
                                     <a href="https://es-la.facebook.com/IglepueblodeDios/" target="_blank" rel="noopener noreferrer" class="gallery__icon"><i class="fas fa-share-alt"></i></a>
                                 </div>
                             </div>
@@ -116,10 +116,10 @@
                         <div class="gallery__item">
                             <div class="gallery__inner">
                                 <div class="gallery__thumb">
-                                    <img src="assets/images/galeria/medico/3.png" alt="gallery-thumb" class="w-100">
+                                    <img src="assets/images/galeria/medico/3.webp" alt="gallery-thumb" class="w-100" alt="iglesia cristiana">
                                 </div>
                                 <div class="gallery__content text-center">
-                                    <a href="assets/images/galeria/medico/3.png" data-rel="lightcase" class="gallery__icon"><i class="fas fa-plus"></i></a>
+                                    <a href="assets/images/galeria/medico/3.webp" data-rel="lightcase" class="gallery__icon"><i class="fas fa-plus"></i></a>
                                     <a href="https://es-la.facebook.com/IglepueblodeDios/" target="_blank" rel="noopener noreferrer" class="gallery__icon"><i class="fas fa-share-alt"></i></a>
                                 </div>
                             </div>
@@ -129,10 +129,10 @@
                         <div class="gallery__item">
                             <div class="gallery__inner">
                                 <div class="gallery__thumb">
-                                    <img src="assets/images/galeria/medico/4.png" alt="gallery-thumb" class="w-100">
+                                    <img src="assets/images/galeria/medico/4.webp" alt="gallery-thumb" class="w-100" alt="iglesia cristiana">
                                 </div>
                                 <div class="gallery__content text-center">
-                                    <a href="assets/images/galeria/medico/4.png" data-rel="lightcase" class="gallery__icon"><i class="fas fa-plus"></i></a>
+                                    <a href="assets/images/galeria/medico/4.webp" data-rel="lightcase" class="gallery__icon"><i class="fas fa-plus"></i></a>
                                     <a href="https://www.facebook.com/IglepueblodeDios/photos/pcb.4935208279929657/4935204446596707/" target="_blank" rel="noopener noreferrer" class="gallery__icon"><i class="fas fa-share-alt"></i></a>
                                 </div>
                             </div>
@@ -142,10 +142,10 @@
                         <div class="gallery__item">
                             <div class="gallery__inner">
                                 <div class="gallery__thumb">
-                                    <img src="assets/images/galeria/medico/5.png" alt="gallery-thumb" class="w-100">
+                                    <img src="assets/images/galeria/medico/5.webp" alt="gallery-thumb" class="w-100" alt="iglesia cristiana">
                                 </div>
                                 <div class="gallery__content text-center">
-                                    <a href="assets/images/galeria/medico/5.png" data-rel="lightcase" class="gallery__icon"><i class="fas fa-plus"></i></a>
+                                    <a href="assets/images/galeria/medico/5.webp" data-rel="lightcase" class="gallery__icon"><i class="fas fa-plus"></i></a>
                                     <a href="https://es-la.facebook.com/IglepueblodeDios/" target="_blank" rel="noopener noreferrer" class="gallery__icon"><i class="fas fa-share-alt"></i></a>
                                 </div>
                             </div>
@@ -155,10 +155,10 @@
                         <div class="gallery__item">
                             <div class="gallery__inner">
                                 <div class="gallery__thumb">
-                                    <img src="assets/images/galeria/medico/6.png" alt="gallery-thumb" class="w-100">
+                                    <img src="assets/images/galeria/medico/6.webp" alt="gallery-thumb" class="w-100" alt="iglesia cristiana">
                                 </div>
                                 <div class="gallery__content text-center">
-                                    <a href="assets/images/galeria/medico/6.png" data-rel="lightcase" class="gallery__icon"><i class="fas fa-plus"></i></a>
+                                    <a href="assets/images/galeria/medico/6.webp" data-rel="lightcase" class="gallery__icon"><i class="fas fa-plus"></i></a>
                                     <a href="https://www.facebook.com/IglepueblodeDios/photos/pcb.4935092829941202/4935090253274793" target="_blank" rel="noopener noreferrer" class="gallery__icon"><i class="fas fa-share-alt"></i></a>
                                 </div>
                             </div>
@@ -168,10 +168,10 @@
                         <div class="gallery__item">
                             <div class="gallery__inner">
                                 <div class="gallery__thumb">
-                                    <img src="assets/images/galeria/medico/7.png" alt="gallery-thumb" class="w-100">
+                                    <img src="assets/images/galeria/medico/7.webp" alt="gallery-thumb" class="w-100" alt="iglesia cristiana">
                                 </div>
                                 <div class="gallery__content text-center">
-                                    <a href="assets/images/galeria/medico/7.png" data-rel="lightcase" class="gallery__icon"><i class="fas fa-plus"></i></a>
+                                    <a href="assets/images/galeria/medico/7.webp" data-rel="lightcase" class="gallery__icon"><i class="fas fa-plus"></i></a>
                                     <a href="https://es-la.facebook.com/IglepueblodeDios/" target="_blank" rel="noopener noreferrer" class="gallery__icon"><i class="fas fa-share-alt"></i></a>
                                 </div>
                             </div>
@@ -181,7 +181,7 @@
                         <div class="gallery__item">
                             <div class="gallery__inner">
                                 <div class="gallery__thumb">
-                                    <img src="assets/images/galeria/programa/1.jpg" alt="gallery-thumb" class="w-100">
+                                    <img src="assets/images/galeria/programa/1.jpg" alt="gallery-thumb" class="w-100" alt="iglesia cristiana">
                                 </div>
                                 <div class="gallery__content text-center">
                                     <a href="assets/images/galeria/programa/1.jpg" data-rel="lightcase" class="gallery__icon"><i class="fas fa-plus"></i></a>
@@ -194,7 +194,7 @@
                         <div class="gallery__item">
                             <div class="gallery__inner">
                                 <div class="gallery__thumb">
-                                    <img src="assets/images/galeria/programa/2.jpg" alt="gallery-thumb" class="w-100">
+                                    <img src="assets/images/galeria/programa/2.jpg" alt="gallery-thumb" class="w-100" alt="iglesia cristiana">
                                 </div>
                                 <div class="gallery__content text-center">
                                     <a href="assets/images/galeria/programa/2.jpg" data-rel="lightcase" class="gallery__icon"><i class="fas fa-plus"></i></a>
@@ -207,7 +207,7 @@
                         <div class="gallery__item">
                             <div class="gallery__inner">
                                 <div class="gallery__thumb">
-                                    <img src="assets/images/galeria/programa/3.jpg" alt="gallery-thumb" class="w-100">
+                                    <img src="assets/images/galeria/programa/3.jpg" alt="gallery-thumb" class="w-100" alt="iglesia cristiana">
                                 </div>
                                 <div class="gallery__content text-center">
                                     <a href="assets/images/galeria/programa/3.jpg" data-rel="lightcase" class="gallery__icon"><i class="fas fa-plus"></i></a>
@@ -220,7 +220,7 @@
                         <div class="gallery__item">
                             <div class="gallery__inner">
                                 <div class="gallery__thumb">
-                                    <img src="assets/images/galeria/programa/4.jpg" alt="gallery-thumb" class="w-100">
+                                    <img src="assets/images/galeria/programa/4.jpg" alt="gallery-thumb" class="w-100" alt="iglesia cristiana">
                                 </div>
                                 <div class="gallery__content text-center">
                                     <a href="assets/images/galeria/programa/4.jpg" data-rel="lightcase" class="gallery__icon"><i class="fas fa-plus"></i></a>
@@ -233,7 +233,7 @@
                         <div class="gallery__item">
                             <div class="gallery__inner">
                                 <div class="gallery__thumb">
-                                    <img src="assets/images/galeria/programa/5.jpg" alt="gallery-thumb" class="w-100">
+                                    <img src="assets/images/galeria/programa/5.jpg" alt="gallery-thumb" class="w-100" alt="iglesia cristiana">
                                 </div>
                                 <div class="gallery__content text-center">
                                     <a href="assets/images/galeria/programa/5.jpg" data-rel="lightcase" class="gallery__icon"><i class="fas fa-plus"></i></a>
@@ -246,7 +246,7 @@
                         <div class="gallery__item">
                             <div class="gallery__inner">
                                 <div class="gallery__thumb">
-                                    <img src="assets/images/galeria/programa/6.jpg" alt="gallery-thumb" class="w-100">
+                                    <img src="assets/images/galeria/programa/6.jpg" alt="gallery-thumb" class="w-100" alt="iglesia cristiana">
                                 </div>
                                 <div class="gallery__content text-center">
                                     <a href="assets/images/galeria/programa/6.jpg" data-rel="lightcase" class="gallery__icon"><i class="fas fa-plus"></i></a>
@@ -259,7 +259,7 @@
                         <div class="gallery__item">
                             <div class="gallery__inner">
                                 <div class="gallery__thumb">
-                                    <img src="assets/images/galeria/reunion/1.jpg" alt="gallery-thumb" class="w-100">
+                                    <img src="assets/images/galeria/reunion/1.jpg" alt="gallery-thumb" class="w-100" alt="iglesia cristiana">
                                 </div>
                                 <div class="gallery__content text-center">
                                     <a href="assets/images/galeria/reunion/1.jpg" data-rel="lightcase" class="gallery__icon"><i class="fas fa-plus"></i></a>
@@ -272,7 +272,7 @@
                         <div class="gallery__item">
                             <div class="gallery__inner">
                                 <div class="gallery__thumb">
-                                    <img src="assets/images/galeria/reunion/2.jpg" alt="gallery-thumb" class="w-100">
+                                    <img src="assets/images/galeria/reunion/2.jpg" alt="gallery-thumb" class="w-100" alt="iglesia cristiana">
                                 </div>
                                 <div class="gallery__content text-center">
                                     <a href="assets/images/galeria/reunion/2.jpg" data-rel="lightcase" class="gallery__icon"><i class="fas fa-plus"></i></a>
@@ -285,7 +285,7 @@
                         <div class="gallery__item">
                             <div class="gallery__inner">
                                 <div class="gallery__thumb">
-                                    <img src="assets/images/galeria/reunion/3.jpg" alt="gallery-thumb" class="w-100">
+                                    <img src="assets/images/galeria/reunion/3.jpg" alt="gallery-thumb" class="w-100" alt="iglesia cristiana">
                                 </div>
                                 <div class="gallery__content text-center">
                                     <a href="assets/images/galeria/reunion/3.jpg" data-rel="lightcase" class="gallery__icon"><i class="fas fa-plus"></i></a>
@@ -298,7 +298,7 @@
                         <div class="gallery__item">
                             <div class="gallery__inner">
                                 <div class="gallery__thumb">
-                                    <img src="assets/images/galeria/reunion/4.jpg" alt="gallery-thumb" class="w-100">
+                                    <img src="assets/images/galeria/reunion/4.jpg" alt="gallery-thumb" class="w-100" alt="iglesia cristiana">
                                 </div>
                                 <div class="gallery__content text-center">
                                     <a href="assets/images/galeria/reunion/4.jpg" data-rel="lightcase" class="gallery__icon"><i class="fas fa-plus"></i></a>
@@ -311,7 +311,7 @@
                         <div class="gallery__item">
                             <div class="gallery__inner">
                                 <div class="gallery__thumb">
-                                    <img src="assets/images/galeria/reunion/5.jpg" alt="gallery-thumb" class="w-100">
+                                    <img src="assets/images/galeria/reunion/5.jpg" alt="gallery-thumb" class="w-100" alt="iglesia cristiana">
                                 </div>
                                 <div class="gallery__content text-center">
                                     <a href="assets/images/galeria/reunion/5.jpg" data-rel="lightcase" class="gallery__icon"><i class="fas fa-plus"></i></a>
@@ -324,7 +324,7 @@
                         <div class="gallery__item">
                             <div class="gallery__inner">
                                 <div class="gallery__thumb">
-                                    <img src="assets/images/galeria/reunion/3.jpg" alt="gallery-thumb" class="w-100">
+                                    <img src="assets/images/galeria/reunion/3.jpg" alt="gallery-thumb" class="w-100" alt="iglesia cristiana">
                                 </div>
                                 <div class="gallery__content text-center">
                                     <a href="assets/images/galeria/reunion/3.jpg" data-rel="lightcase" class="gallery__icon"><i class="fas fa-plus"></i></a>
@@ -337,7 +337,7 @@
                         <div class="gallery__item">
                             <div class="gallery__inner">
                                 <div class="gallery__thumb">
-                                    <img src="assets/images/galeria/reunion/3.jpg" alt="gallery-thumb" class="w-100">
+                                    <img src="assets/images/galeria/reunion/3.jpg" alt="gallery-thumb" class="w-100" alt="iglesia cristiana">
                                 </div>
                                 <div class="gallery__content text-center">
                                     <a href="assets/images/galeria/reunion/3.jpg" data-rel="lightcase" class="gallery__icon"><i class="fas fa-plus"></i></a>
@@ -350,10 +350,10 @@
                         <div class="gallery__item">
                             <div class="gallery__inner">
                                 <div class="gallery__thumb">
-                                    <img src="assets/images/galeria/misionero/1.png" alt="gallery-thumb" class="w-100">
+                                    <img src="assets/images/galeria/misionero/1.webp" alt="gallery-thumb" class="w-100" alt="iglesia cristiana">
                                 </div>
                                 <div class="gallery__content text-center">
-                                    <a href="assets/images/galeria/misionero/1.png" data-rel="lightcase" class="gallery__icon"><i class="fas fa-plus"></i></a>
+                                    <a href="assets/images/galeria/misionero/1.webp" data-rel="lightcase" class="gallery__icon"><i class="fas fa-plus"></i></a>
                                     <a href="https://es-la.facebook.com/IglepueblodeDios/" target="_blank" rel="noopener noreferrer" class="gallery__icon"><i class="fas fa-share-alt"></i></a>
                                 </div>
                             </div>
@@ -363,10 +363,10 @@
                         <div class="gallery__item">
                             <div class="gallery__inner">
                                 <div class="gallery__thumb">
-                                    <img src="assets/images/galeria/misionero/2.png" alt="gallery-thumb" class="w-100">
+                                    <img src="assets/images/galeria/misionero/2.webp" alt="gallery-thumb" class="w-100" alt="iglesia cristiana">
                                 </div>
                                 <div class="gallery__content text-center">
-                                    <a href="assets/images/galeria/misionero/2.png" data-rel="lightcase" class="gallery__icon"><i class="fas fa-plus"></i></a>
+                                    <a href="assets/images/galeria/misionero/2.webp" data-rel="lightcase" class="gallery__icon"><i class="fas fa-plus"></i></a>
                                     <a href="https://es-la.facebook.com/IglepueblodeDios/" target="_blank" rel="noopener noreferrer" class="gallery__icon"><i class="fas fa-share-alt"></i></a>
                                 </div>
                             </div>
@@ -376,10 +376,10 @@
                         <div class="gallery__item">
                             <div class="gallery__inner">
                                 <div class="gallery__thumb">
-                                    <img src="assets/images/galeria/misionero/3.png" alt="gallery-thumb" class="w-100">
+                                    <img src="assets/images/galeria/misionero/3.webp" alt="gallery-thumb" class="w-100" alt="iglesia cristiana">
                                 </div>
                                 <div class="gallery__content text-center">
-                                    <a href="assets/images/galeria/misionero/3.png" data-rel="lightcase" class="gallery__icon"><i class="fas fa-plus"></i></a>
+                                    <a href="assets/images/galeria/misionero/3.webp" data-rel="lightcase" class="gallery__icon"><i class="fas fa-plus"></i></a>
                                     <a href="https://es-la.facebook.com/IglepueblodeDios/" target="_blank" rel="noopener noreferrer" class="gallery__icon"><i class="fas fa-share-alt"></i></a>
                                 </div>
                             </div>
@@ -389,10 +389,10 @@
                         <div class="gallery__item">
                             <div class="gallery__inner">
                                 <div class="gallery__thumb">
-                                    <img src="assets/images/galeria/misionero/4.png" alt="gallery-thumb" class="w-100">
+                                    <img src="assets/images/galeria/misionero/4.webp" alt="gallery-thumb" class="w-100" alt="iglesia cristiana">
                                 </div>
                                 <div class="gallery__content text-center">
-                                    <a href="assets/images/galeria/misionero/4.png" data-rel="lightcase" class="gallery__icon"><i class="fas fa-plus"></i></a>
+                                    <a href="assets/images/galeria/misionero/4.webp" data-rel="lightcase" class="gallery__icon"><i class="fas fa-plus"></i></a>
                                     <a href="https://es-la.facebook.com/IglepueblodeDios/" target="_blank" rel="noopener noreferrer" class="gallery__icon"><i class="fas fa-share-alt"></i></a>
                                 </div>
                             </div>
@@ -402,10 +402,10 @@
                         <div class="gallery__item">
                             <div class="gallery__inner">
                                 <div class="gallery__thumb">
-                                    <img src="assets/images/galeria/misionero/5.png" alt="gallery-thumb" class="w-100">
+                                    <img src="assets/images/galeria/misionero/5.webp" alt="gallery-thumb" class="w-100" alt="iglesia cristiana">
                                 </div>
                                 <div class="gallery__content text-center">
-                                    <a href="assets/images/galeria/misionero/5.png" data-rel="lightcase" class="gallery__icon"><i class="fas fa-plus"></i></a>
+                                    <a href="assets/images/galeria/misionero/5.webp" data-rel="lightcase" class="gallery__icon"><i class="fas fa-plus"></i></a>
                                     <a href="https://es-la.facebook.com/IglepueblodeDios/" target="_blank" rel="noopener noreferrer" class="gallery__icon"><i class="fas fa-share-alt"></i></a>
                                 </div>
                             </div>

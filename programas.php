@@ -12,7 +12,7 @@
                     <div class="event__item">
                         <div class="event__inner">
                             <div class="event__thumb">
-                                <a href="galeria.php"><img src="assets/images/programas/1.jpg" alt="event thumb"></a>
+                                <a href="galeria"><img src="assets/images/programas/1.jpg" alt="MINISTERIO DE ALABANZA"></a>
                             </div>
                             <div>
                                 <button class="accordion">MINISTERIO DE ALABANZA</button>
@@ -29,7 +29,7 @@
                     <div class="event__item">
                         <div class="event__inner">
                             <div class="event__thumb">
-                                <a href="galeria.php"><img src="assets/images/programas/2.jpg" alt="event thumb"></a>
+                                <a href="galeria"><img src="assets/images/programas/2.jpg" alt="MINISTERIO DE MATRIMONIOS"></a>
 
                             </div>
 
@@ -37,8 +37,8 @@
                                 <button class="accordion">MINISTERIO DE MATRIMONIOS</button>
                                 <div class="panel">
                                     <p>Preparando familias bendecidas por Cristo encargados pastor Rubén Cifuentes y Misionera Mariela de Cifuentes.
-                                      
-                                </p>
+
+                                    </p>
                                 </div>
                             </div>
 
@@ -49,7 +49,7 @@
                     <div class="event__item">
                         <div class="event__inner">
                             <div class="event__thumb">
-                                <a href="galeria.php"><img src="assets/images/programas/3.jpg" alt="event thumb"></a>
+                                <a href="galeria"><img src="assets/images/programas/3.jpg" alt="MINISTERIO DE DAMAS"></a>
 
                             </div>
 
@@ -57,7 +57,7 @@
                                 <button class="accordion">MINISTERIO DE DAMAS</button>
                                 <div class="panel">
                                     <p>
-                                    Formando mujeres, guerreras, valientes y esforzadas.
+                                        Formando mujeres, guerreras, valientes y esforzadas.
                                     </p>
                                 </div>
                             </div>
@@ -70,14 +70,14 @@
                     <div class="event__item">
                         <div class="event__inner">
                             <div class="event__thumb">
-                                <a href="galeria.php"><img src="assets/images/programas/4.jpg"></a>
+                                <a href="galeria"><img src="assets/images/programas/4.jpg" alt="MINISTERIO DE VARONES"></a>
                             </div>
 
                             <div>
                                 <button class="accordion">MINISTERIO DE VARONES</button>
                                 <div class="panel">
                                     <p>
-                                    Fortalecimiento de guerreros en Cristo encargado pastor Rubén Cifuentes.
+                                        Fortalecimiento de guerreros en Cristo encargado pastor Rubén Cifuentes.
                                     </p>
                                 </div>
                             </div>
@@ -88,14 +88,14 @@
                     <div class="event__item">
                         <div class="event__inner">
                             <div class="event__thumb">
-                                <a href="galeria.php"><img src="assets/images/programas/5.jpg" alt="event thumb"></a>
+                                <a href="galeria"><img src="assets/images/programas/5.jpg" alt="MINISTERIO DE JÓVENES"></a>
 
                             </div>
                             <div>
                                 <button class="accordion">MINISTERIO DE JÓVENES</button>
                                 <div class="panel">
                                     <p>
-                                    Este es uno de los ministerios más importante de nuestra iglesia manteniendo obras en las comunidades shipibas de la región Loreto y otros lugares encargado Dr. Rubén.
+                                        Este es uno de los ministerios más importante de nuestra iglesia manteniendo obras en las comunidades shipibas de la región Loreto y otros lugares encargado Dr. Rubén.
                                     </p>
                                 </div>
                             </div>
@@ -103,22 +103,22 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-5 col-sm-6 col-12" >
+                <div class="col-lg-5 col-sm-6 col-12">
                     <div class="event__item">
                         <div class="event__inner">
                             <div class="event__thumb">
-                                <a href="galeria.php"><img src="assets/images/programas/6.jpg" alt="event thumb"></a>
+                                <a href="galeria"><img src="assets/images/programas/6.jpg" alt="MINISTERIO DE NIÑOS"></a>
 
                             </div>
                             <div>
                                 <button class="accordion">MINISTERIO DE NIÑOS</button>
                                 <div class="panel">
                                     <p>
-                                    Tenemos la escuela dominical los domingos 10.30-12.30 encargado Misionera Dora Córdova.    
-                                </p>
+                                        Tenemos la escuela dominical los domingos 10.30-12.30 encargado Misionera Dora Córdova.
+                                    </p>
                                 </div>
                             </div>
-                     
+
                         </div>
                     </div>
                 </div>

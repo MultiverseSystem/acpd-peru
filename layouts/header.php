@@ -10,7 +10,7 @@ session_start();
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>acdp-peru</title>
+    <title>acdp-peru | inglesia cristiana</title>
     <meta name="description" content="Somos una gran familia en Cristo, con la sede principal en Lima e iglesias hijas en las comunidades shipibas de Shetebo y Cannan en Loreto." />
     <meta name="keywords" content="iglesia, fe, pueblo de dios, iglesia cristiana, Oración">
     <meta name="robots" content="index, follow">

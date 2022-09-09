@@ -82,7 +82,7 @@
                             <div class="product-item">
                                 <div class="product-thumb">
                                     <div class="pro-thumb">
-                                        <img src="assets/images/pastores/2.png" alt="shop">
+                                        <img src="assets/images/pastores/2.png"  alt="iglesia cristiana">
                                     </div>
                                     <div class="product-action-link">
                                         <a href="https://wa.link/lbp96e" target="_blank" rel="noopener noreferrer"><i class="fab fa-whatsapp"></i></a>
@@ -106,7 +106,7 @@
                             <div class="product-item">
                                 <div class="product-thumb">
                                     <div class="pro-thumb">
-                                        <img src="assets/images/pastores/3.jpg" alt="shop">
+                                        <img src="assets/images/pastores/3.jpg" alt="iglesia cristiana">
                                     </div>
                                     <div class="product-action-link">
                                         <a href="https://wa.link/6o6fuj" target="_blank" rel="noopener noreferrer"><i class="fab fa-whatsapp"></i></a>
@@ -127,7 +127,7 @@
                             <div class="product-item">
                                 <div class="product-thumb">
                                     <div class="pro-thumb">
-                                        <img src="assets/images/pastores/1.jpg" alt="shop">
+                                        <img src="assets/images/pastores/1.jpg" alt="iglesia cristiana">
                                     </div>
                                     <div class="product-action-link">
                                     </div>
@@ -162,7 +162,7 @@
                             <div class="product-item">
                                 <div class="product-thumb">
                                     <div class="pro-thumb">
-                                        <img src="assets/images/pastores/4.jpg" alt="shop">
+                                        <img src="assets/images/pastores/4.jpg" alt="iglesia cristiana">
                                     </div>
                                     <div class="product-action-link">
                                         <a href="https://wa.link/tf3jfn" target="_blank" rel="noopener noreferrer"><i class="fab fa-whatsapp"></i></a>
@@ -183,7 +183,7 @@
                             <div class="product-item">
                                 <div class="product-thumb">
                                     <div class="pro-thumb">
-                                        <img src="assets/images/pastores/5.jpg" alt="shop">
+                                        <img src="assets/images/pastores/5.jpg" alt="iglesia cristiana">
                                     </div>
                                     <div class="product-action-link">
                                         <a href="https://wa.link/f2m721" target="_blank" rel="noopener noreferrer"><i class="fab fa-whatsapp"></i></a>

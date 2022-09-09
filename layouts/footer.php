@@ -1,5 +1,5 @@
 <div class="section__header text-center mt-3">
-    <h2>Cristian Fastivals</h2>
+    <h2>Ubicación</h2>
     <div class="elementor-widget-container">
         <p><em>Jr. Bello Horizonte 1337 - Smp - Lima - Lima, Perú</em></p>
     </div>

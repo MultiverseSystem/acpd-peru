@@ -13,9 +13,9 @@
                 <div class="col-lg-4 col-sm-12 col-12 mb-5">
                     <div class="event__item">
                         <div class="event__inner">
-                            <a href="galeria.php">
+                            <a href="galeria">
                             <div class="contenedor1">
-                                <img src="assets/images/actividades/5.jpg" />
+                                <img src="assets/images/actividades/5.jpg" alt="CAMPAÑA EVANGELISTICA MÉDICA"/>
                                 <div class="centrado1 fs-4 text-white">CAMPAÑA EVANGELISTICA MÉDICA</div>
                             </div>
                             </a>
@@ -34,9 +34,9 @@
                 <div class="col-lg-4 col-sm-5 col-12 ">
                     <div class="event__item">
                         <div class="event__inner">
-                            <a href="galeria.php">
+                            <a href="galeria">
                             <div class="contenedor1">
-                                <img src="assets/images/actividades/4.jpg" />
+                                <img src="assets/images/actividades/4.jpg" alt="CAMPAÑA NAVIDEÑAS" />
                                 <div class="centrado1 fs-3 text-white">CAMPAÑA NAVIDEÑAS</div>
                             </div>
                             </a>
@@ -55,9 +55,9 @@
                 <div class="col-lg-4 col-sm-5 col-12 ">
                     <div class="event__item">
                         <div class="event__inner">
-                            <a href="galeria.php">
+                            <a href="galeria">
                             <div class="contenedor1">
-                                <img src="assets/images/actividades/3.jpg" />
+                                <img src="assets/images/actividades/3.jpg" alt="CAMPAÑA MISIONERA" />
                                 <div class="centrado1 fs-2 text-white">CAMPAÑA MISIONERA</div>
                             </div>
                             </a>
@@ -77,9 +77,9 @@
                 <div class="col-lg-6 col-sm-6 col-12">
                     <div class="event__item">
                         <div class="event__inner">
-                            <a href="galeria.php">
+                            <a href="galeria">
                              <div class="contenedor1">
-                                <img src="assets/images/actividades/1.jpg" />
+                                <img src="assets/images/actividades/1.jpg" alt="ESTUDIO BÍBLICO"/>
                                 <div class="centrado1 fs-2 text-white">ESTUDIO BÍBLICO</div>
                             </div>
                             </a>
@@ -97,9 +97,9 @@
                 <div class="col-lg-6 col-sm-6 col-12">
                     <div class="event__item">
                         <div class="event__inner">
-                            <a href="galeria.php">
+                            <a href="galeria">
                             <div class="contenedor1">
-                                <img src="assets/images/actividades/2.jpg" />
+                                <img src="assets/images/actividades/2.jpg" alt="REUNIÓN DE AYUNO Y ORACIÓN"/>
                                 <div class="centrado1 fs-2 text-white">REUNIÓN DE AYUNO Y ORACIÓN</div>
                             </div>
                             </a>
