@@ -113,8 +113,8 @@ session_start();
             <div class="container">
                 <div class="header__mainmenu navbar navbar-expand-xl navbar-dark">
                     <div class="header__logo">
-                        <a href="index.html" class="d-none d-xl-block"><img src="assets/images/logo/02.png" alt="logo"></a>
-                        <a href="index.html" class="d-xl-none"><img src="assets/images/logo/02.png" alt="logo"></a>
+                        <a href="/" class="d-none d-xl-block"><img src="assets/images/logo/02.png" alt="logo"></a>
+                        <a href="/" class="d-xl-none"><img src="assets/images/logo/02.png" alt="logo"></a>
                     </div>
                     <div class="header__bar">
                         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#menubar" aria-controls="menubar" aria-expanded="false" aria-label="Toggle navigation">
